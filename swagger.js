@@ -88,7 +88,7 @@ const options = {
             },
         },
     },
-    apis: [], // não precisa de comentários no código agora
+    apis: [], 
 };
 
 const swaggerSpec = swaggerJSDoc(options);
